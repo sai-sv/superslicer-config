@@ -6,3 +6,5 @@
 !printer/*
 !filament/
 !filament/*
+print/.DS_Store
+filament/.DS_Store
